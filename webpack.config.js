@@ -24,7 +24,7 @@ module.exports = function(fabricatorConfig) {
 			]
 		},
 		plugins: [],
-		cache: {}
+		cache: {},
 	};
 
 	if (!fabricatorConfig.dev) {
