@@ -1,16 +1,12 @@
-// Import vendor styles
+/**
+ * Toolkit styles
+ */
+
+
+
+@import url(http://fonts.googleapis.com/css?family=Cabin+Sketch:400,700);
 @import "vendor/_bootstrap.scss",
-		"vendor/font-awesome.scss"; 
+"vendor/font-awesome.scss";
 
 
-// Toolkit				
-body {
-	font-size: 16px;
-	line-height: 1.5;
-	@include rtl {
-		font-family: 'Amiri', serif;
-	} 
-	@include ltr {
-		font-family: 'Roboto', serif;		
-	}
-}
+
