@@ -1,9 +1,18 @@
-## Fork of [Fabricator] (http://fbrctr.github.io/)
+## Fork of [Fabricator] (http://fbrctr.github.io/) with Bootstrap
 
+This version is used for quick-prototyping html.
+
+## My workflow
+
+1. Create journey map of user flow
+2. Identify UI per identified touch points
+3. Sketch UI mockups on paper
+4. Identify patterns that are recurring
+5. Use Fabricator-Bootstrap to make HTML samples
 
 ## Credits
 
-Fabricator origially created by [Luke Askew](http://twitter.com/lukeaskew).
+Fabricator originally created by [Luke Askew](http://twitter.com/lukeaskew).
 
 ## License
 
